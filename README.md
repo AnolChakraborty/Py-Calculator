@@ -39,7 +39,7 @@ python3 calculator.py
 - & ignore if any warning shows up unless it conflicts with the program behaviour.
 
 ## Note
->The button padding in the code behaves differently on different OS, so please calibrate them according to the gui of the application by changing the ‘_**padx**_’ & ‘_**pady**_’ values after running on your system. Or you can download a precompile executable for your system from the **“_dist_”** folder.
+>The button padding in the code behaves differently on different OS, so please calibrate them according to the gui of the application by changing the ‘_**padx**_’ & ‘_**pady**_’ values after running on your system.
 
 >& if the app icon doesnot shows up then change the followng attribute to the location of the icon file in your drive.
 ```py
