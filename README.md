@@ -6,6 +6,7 @@
 [![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
 
 Py-Calculator is a GUI calculator application with all the basic functionalities of a calculator written completely in Python3 using the tkinter framework.
+
 It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
