@@ -38,7 +38,9 @@ photo = tk.PhotoImage(file = "<full path of the icon in the res folder>")
 ```
 
 ## License
+
 This project is lisenced under _GNU General Public License v3.0_
+
 Feel free to use this project as you want!!!
 
 ##### **Free and opensource, Hell Yeah!**
