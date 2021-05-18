@@ -30,7 +30,7 @@ For the program to run, it needs the following **dependencies** to be installed 
 _If not present, then install the libraries using pip or any other way of your choice._
 
 ## How to run
-As mentioned above, python version 3.x.x is required to run this program.
+As mentioned above, python version 3 is required to run this program.
 - First navigate to the 'Py-Calculator' folder.
 - Then run he following command:
 ```sh
