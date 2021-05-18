@@ -1,5 +1,5 @@
 # Py-Calculator
-## _GUI Calculaor made in python using tkinter_
+## _GUI Calculator made in python using tkinter_
 ![](https://i.ibb.co/DtWdrx4/icon.png)
 
 [![powered by](https://img.shields.io/badge/Powered%20by-Python%203-blue)](https://www.python.org/)
