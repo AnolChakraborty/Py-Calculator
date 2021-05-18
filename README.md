@@ -10,7 +10,7 @@ It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
 
-![](https://i.ibb.co/g6bFVgG/Screenshot-from-2021-05-19-00-49-16.png)  ![](https://i.ibb.co/cCgp7Bg/ezgif.gif)  ![](https://i.ibb.co/NThwNNt/Screenshot-76.png)
+![](https://i.ibb.co/cCgp7Bg/ezgif.gif)  ![](https://i.ibb.co/NThwNNt/Screenshot-76.png)
 ## Features 
 
 - Light weight
