@@ -5,7 +5,7 @@
 [![powered by](https://img.shields.io/badge/Powered%20by-Python%203-blue)](https://www.python.org/)
 [![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
 
-Py-Calculator is a GUI calculator application with all the basic functionalities written completely in Python3 using the tkinter framework.
+Py-Calculator is a GUI calculator application with all the basic functionalities of a calculator written completely in Python3 using the tkinter framework.
 It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
@@ -49,4 +49,4 @@ photo = tk.PhotoImage(file = "<full path of the icon in the res folder>")
 
 This project is lisenced under _GNU General Public License v3.0_
 
-Feel free to use this project as you want, its free & opensource.
+Feel free to use this project as you want, its free & opensourced.
