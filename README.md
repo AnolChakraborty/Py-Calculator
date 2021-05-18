@@ -1,6 +1,6 @@
 # Py-Calculator
 ## _GUI Calculator made in python using tkinter_
-[![](https://i.ibb.co/DtWdrx4/icon.png)](#)
+[![](https://i.ibb.co/DtWdrx4/icon.png)](#py-calculator)
 
 [![powered by](https://img.shields.io/badge/Powered%20by-Python%203-blue)](https://www.python.org/)
 [![powered by](https://img.shields.io/badge/Powered%20by-Tkinter-red)](https://docs.python.org/3/library/tkinter.html)
@@ -11,7 +11,7 @@ It can run on any system running Python 3 or above and having tkinter library.
 
 _Snap of the program running in linux & windows environment:_
 
-[![](https://i.ibb.co/cCgp7Bg/ezgif.gif)](#)  [![](https://i.ibb.co/NThwNNt/Screenshot-76.png)](#)
+[![](https://i.ibb.co/cCgp7Bg/ezgif.gif)](#py-calculator)  [![](https://i.ibb.co/NThwNNt/Screenshot-76.png)](#py-calculator)
 ## Features 
 
 - Light weight
