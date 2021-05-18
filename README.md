@@ -41,9 +41,9 @@ python3 calculator.py
 ## Note
 >The button padding in the code behaves differently on different OS, so please calibrate them according to the gui of the application by changing the ‘_**padx**_’ & ‘_**pady**_’ values after running on your system.
 
->& if the app icon doesnot shows up then change the followng attribute to the location of the icon file in your drive.
+>& if the app icon doesnot shows up then change the followng path to the location of the icon.png file in your drive.
 ```py
-photo = tk.PhotoImage(file = "<full path of the icon in the res folder>")
+photo = tk.PhotoImage(file = "<full path of the icon.png file in the res folder>")
 ```
 
 ## License
