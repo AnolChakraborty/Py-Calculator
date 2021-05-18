@@ -21,7 +21,7 @@ _Snap of the program running in linux & windows environment:_
 - Easy to understand source code
 
 ## Requirements
-For the program to run it needs the following **dependencies** to be installed in python:
+For the program to run, it needs the following **dependencies** to be installed in python:
 - math
 - tkinter
 - tkinter.constants
