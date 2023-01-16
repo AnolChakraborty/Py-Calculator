@@ -21,7 +21,7 @@ class Button(tk.Button):
 ui = tk.Tk()
 ui.title("Calculator")
 
-ui.geometry("287x350")
+# ui.geometry("287x350") # Enabling this may not show full ui of the calculator in different screen sizes, so better keep it disabled
 ui.attributes('-topmost', True)
 
 photo = tk.PhotoImage(file = "res/icon.png")
